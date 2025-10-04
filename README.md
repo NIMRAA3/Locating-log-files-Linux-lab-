@@ -1,3 +1,4 @@
+ 📘 Linux Log Analysis Lab
 ## 🔹 Introduction
 
 This repository contains the **Linux Log Analysis Lab**, focusing on locating, interpreting, and monitoring system and application log files.
