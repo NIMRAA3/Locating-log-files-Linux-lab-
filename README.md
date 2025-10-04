@@ -25,7 +25,7 @@ The lab demonstrates hands-on experience with log analysis, real-time monitoring
 ## 📝 Lab Procedures
 
 The complete lab documentation is available here:
-👉 [Lab Report: Locating Log Files](./Lab-Report-Locating-Log-Files.md)
+👉 [Lab Report: Locating Log Files](https://github.com/NIMRAA3/Locating-log-files-Linux-lab-/blob/main/log%20file%20lab.docx)
 
 Steps included:
 
